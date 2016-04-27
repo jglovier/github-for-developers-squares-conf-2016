@@ -22,6 +22,8 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
   - [GitHub Flow](https://guides.github.com/introduction/flow/)
   - [Hello World](https://guides.github.com/activities/hello-world/)
   - [Mastering Issues](https://guides.github.com/features/issues/)
+  - [Getting Your Project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
+  - [Contributing To Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Desktop](http://desktop.github.com/) app - a nice GUI that you can use for most of GitHub flow instead of the terminal. 
 - [Atom](https://atom.io/) - the open source text editor from GitHub
