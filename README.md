@@ -10,19 +10,11 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - If you don't have a code editor, download [Atom](https://atom.io/)
 
 ## Workshop outline
-- A brief introduction to GitHub
-	- The difference between Git and GitHub
-	- Repositories
-	- Cloning
-	- Branches
-	- Issues
+- An overview of GitHub
 - GitHub Flow
-	- Forking
-	- Pull requests
-	- Terminal vs GitHub Desktop
 - Collaborating with other developers
-- Project exercise
-- Q&A
+- A few advanced Git commands
+- Q&A ([post them here](https://github.com/jglovier/github-for-developers-squares-conf-2016/issues/6))
 
 ## Resources
 - [Git website](http://git-scm.com/) - official documentation for Git (the open source, distributed version control system)
