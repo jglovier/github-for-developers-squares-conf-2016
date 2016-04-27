@@ -6,3 +6,4 @@ During class, you will open a pull request to update this file with your name!
 - Steve Schultz
 - Aireale Williams
 - Theresa Wagar 
+- Carolyn
