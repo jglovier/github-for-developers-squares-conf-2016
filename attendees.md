@@ -7,3 +7,4 @@ During class, you will open a pull request to update this file with your name!
 - Aireale Williams
 - Theresa Wagar 
 - Carolyn
+- R.A. Ray
