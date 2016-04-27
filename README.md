@@ -13,7 +13,7 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - An overview of GitHub
 - GitHub Flow
 - Collaborating with other developers
-- A quick look at advanced Git commands
+- A quick look at Git commands
 - Q&A ([post them here](https://github.com/jglovier/github-for-developers-squares-conf-2016/issues/6))
 
 ## Resources
