@@ -15,6 +15,7 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - Collaborating with other developers
 - A quick look at Git commands
 - Q&A ([post them here](https://github.com/jglovier/github-for-developers-squares-conf-2016/issues/6))
+- Say thanks yo!! :boom:
 
 ## Resources
 - [Git website](http://git-scm.com/) - official documentation for Git (the open source, distributed version control system)
@@ -25,7 +26,7 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
   - [Getting Your Project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
   - [Contributing To Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [GitHub Desktop](http://desktop.github.com/) app - a nice GUI that you can use for most of GitHub flow instead of the terminal. 
+- [GitHub Desktop](http://desktop.github.com/) app - a nice GUI that you can use for most of GitHub flow instead of the terminal.
 - [Atom](https://atom.io/) - the open source text editor from GitHub
 - Other resources
   - [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
