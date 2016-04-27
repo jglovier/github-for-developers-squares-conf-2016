@@ -33,5 +33,6 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - [GitHub Desktop](http://desktop.github.com/) app - a nice GUI that you can use for most of GitHub flow instead of the terminal. 
 - [Atom](https://atom.io/) - the open source text editor from GitHub
 - Other resources
-  - [Try Git tutorial](http://try.github.com/)
+  - [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+  - [Try Git](http://try.github.com/) tutorial
   - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/?NODEMO) tutorial
