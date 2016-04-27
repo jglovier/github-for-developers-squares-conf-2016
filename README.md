@@ -13,7 +13,7 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - An overview of GitHub
 - GitHub Flow
 - Collaborating with other developers
-- A few advanced Git commands
+- A quick look at advanced Git commands
 - Q&A ([post them here](https://github.com/jglovier/github-for-developers-squares-conf-2016/issues/6))
 
 ## Resources
@@ -21,6 +21,7 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - [GitHub Guides](https://guides.github.com/) - GitHub's official guides for getting started with GitHub
   - [GitHub Flow](https://guides.github.com/introduction/flow/)
   - [Hello World](https://guides.github.com/activities/hello-world/)
+  - [Mastering Issues](https://guides.github.com/features/issues/)
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Desktop](http://desktop.github.com/) app - a nice GUI that you can use for most of GitHub flow instead of the terminal. 
 - [Atom](https://atom.io/) - the open source text editor from GitHub
