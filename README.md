@@ -15,7 +15,7 @@ This is our workspace for the GitHub for Developers workshop at [Squares Confere
 - Collaborating with other developers
 - A quick look at Git commands
 - Q&A ([post them here](https://github.com/jglovier/github-for-developers-squares-conf-2016/issues/6))
-- Say bye bye!
+- Say thanks yo!! :boom:
 
 ## Resources
 - [Git website](http://git-scm.com/) - official documentation for Git (the open source, distributed version control system)
