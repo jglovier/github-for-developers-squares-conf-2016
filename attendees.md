@@ -9,3 +9,4 @@ During class, you will open a pull request to update this file with your name!
 - Carolyn
 - R.A. Ray
 - Krista McPhee
+- Jesse Gardner
